@@ -1,0 +1,7 @@
+gymnasium
+torch
+torchvision
+matplotlib
+pandas
+streamlit
+numpy

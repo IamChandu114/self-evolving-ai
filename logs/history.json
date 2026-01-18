@@ -1,0 +1,3802 @@
+[
+  {
+    "episode": 1,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 2,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 3,
+    "task": "cartpole",
+    "reward": 46.0
+  },
+  {
+    "episode": 4,
+    "task": "cartpole",
+    "reward": 61.0
+  },
+  {
+    "episode": 5,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 6,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 7,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 8,
+    "task": "cartpole",
+    "reward": 72.0
+  },
+  {
+    "episode": 9,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 10,
+    "task": "cartpole",
+    "reward": 71.0
+  },
+  {
+    "episode": 11,
+    "task": "cartpole",
+    "reward": 25.0
+  },
+  {
+    "episode": 12,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 13,
+    "task": "cartpole",
+    "reward": 31.0
+  },
+  {
+    "episode": 14,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 15,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 16,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 17,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 18,
+    "task": "cartpole",
+    "reward": 30.0
+  },
+  {
+    "episode": 19,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 20,
+    "task": "cartpole",
+    "reward": 34.0
+  },
+  {
+    "episode": 21,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 22,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 23,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 24,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 25,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 26,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 27,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 28,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 29,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 30,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 31,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 32,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 33,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 34,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 35,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 36,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 37,
+    "task": "cartpole",
+    "reward": 47.0
+  },
+  {
+    "episode": 38,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 39,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 40,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 41,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 42,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 43,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 44,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 45,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 46,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 47,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 48,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 49,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 50,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 51,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 52,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 53,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 54,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 55,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 56,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 57,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 58,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 59,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 60,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 61,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 62,
+    "task": "cartpole",
+    "reward": 25.0
+  },
+  {
+    "episode": 63,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 64,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 65,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 66,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 67,
+    "task": "cartpole",
+    "reward": 30.0
+  },
+  {
+    "episode": 68,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 69,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 70,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 71,
+    "task": "cartpole",
+    "reward": 38.0
+  },
+  {
+    "episode": 72,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 73,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 74,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 75,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 76,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 77,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 78,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 79,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 80,
+    "task": "cartpole",
+    "reward": 24.0
+  },
+  {
+    "episode": 81,
+    "task": "cartpole",
+    "reward": 57.0
+  },
+  {
+    "episode": 82,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 83,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 84,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 85,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 86,
+    "task": "cartpole",
+    "reward": 45.0
+  },
+  {
+    "episode": 87,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 88,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 89,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 90,
+    "task": "cartpole",
+    "reward": 24.0
+  },
+  {
+    "episode": 91,
+    "task": "cartpole",
+    "reward": 27.0
+  },
+  {
+    "episode": 92,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 93,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 94,
+    "task": "cartpole",
+    "reward": 23.0
+  },
+  {
+    "episode": 95,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 96,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 97,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 98,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 99,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 100,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 101,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 102,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 103,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 104,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 105,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 106,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 107,
+    "task": "cartpole",
+    "reward": 42.0
+  },
+  {
+    "episode": 108,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 109,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 110,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 111,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 112,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 113,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 114,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 115,
+    "task": "cartpole",
+    "reward": 29.0
+  },
+  {
+    "episode": 116,
+    "task": "cartpole",
+    "reward": 44.0
+  },
+  {
+    "episode": 117,
+    "task": "cartpole",
+    "reward": 26.0
+  },
+  {
+    "episode": 118,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 119,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 120,
+    "task": "cartpole",
+    "reward": 35.0
+  },
+  {
+    "episode": 121,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 122,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 123,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 124,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 125,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 126,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 127,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 128,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 129,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 130,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 131,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 132,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 133,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 134,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 135,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 136,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 137,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 138,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 139,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 140,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 141,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 142,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 143,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 144,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 145,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 146,
+    "task": "cartpole",
+    "reward": 31.0
+  },
+  {
+    "episode": 147,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 148,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 149,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 150,
+    "task": "cartpole",
+    "reward": 24.0
+  },
+  {
+    "episode": 151,
+    "task": "cartpole",
+    "reward": 27.0
+  },
+  {
+    "episode": 152,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 153,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 154,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 155,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 156,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 157,
+    "task": "cartpole",
+    "reward": 27.0
+  },
+  {
+    "episode": 158,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 159,
+    "task": "cartpole",
+    "reward": 23.0
+  },
+  {
+    "episode": 160,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 161,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 162,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 163,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 164,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 165,
+    "task": "cartpole",
+    "reward": 23.0
+  },
+  {
+    "episode": 166,
+    "task": "cartpole",
+    "reward": 45.0
+  },
+  {
+    "episode": 167,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 168,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 169,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 170,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 171,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 172,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 173,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 174,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 175,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 176,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 177,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 178,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 179,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 180,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 181,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 182,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 183,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 184,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 185,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 186,
+    "task": "cartpole",
+    "reward": 27.0
+  },
+  {
+    "episode": 187,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 188,
+    "task": "cartpole",
+    "reward": 56.0
+  },
+  {
+    "episode": 189,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 190,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 191,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 192,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 193,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 194,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 195,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 196,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 197,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 198,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 199,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 200,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 201,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 202,
+    "task": "cartpole",
+    "reward": 28.0
+  },
+  {
+    "episode": 203,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 204,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 205,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 206,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 207,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 208,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 209,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 210,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 211,
+    "task": "cartpole",
+    "reward": 23.0
+  },
+  {
+    "episode": 212,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 213,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 214,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 215,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 216,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 217,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 218,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 219,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 220,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 221,
+    "task": "cartpole",
+    "reward": 49.0
+  },
+  {
+    "episode": 222,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 223,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 224,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 225,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 226,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 227,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 228,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 229,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 230,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 231,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 232,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 233,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 234,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 235,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 236,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 237,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 238,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 239,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 240,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 241,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 242,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 243,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 244,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 245,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 246,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 247,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 248,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 249,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 250,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 251,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 252,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 253,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 254,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 255,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 256,
+    "task": "cartpole",
+    "reward": 24.0
+  },
+  {
+    "episode": 257,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 258,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 259,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 260,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 261,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 262,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 263,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 264,
+    "task": "cartpole",
+    "reward": 27.0
+  },
+  {
+    "episode": 265,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 266,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 267,
+    "task": "cartpole",
+    "reward": 28.0
+  },
+  {
+    "episode": 268,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 269,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 270,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 271,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 272,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 273,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 274,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 275,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 276,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 277,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 278,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 279,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 280,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 281,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 282,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 283,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 284,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 285,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 286,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 287,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 288,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 289,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 290,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 291,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 292,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 293,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 294,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 295,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 296,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 297,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 298,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 299,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 300,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 301,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 302,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 303,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 304,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 305,
+    "task": "cartpole",
+    "reward": 28.0
+  },
+  {
+    "episode": 306,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 307,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 308,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 309,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 310,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 311,
+    "task": "cartpole",
+    "reward": 24.0
+  },
+  {
+    "episode": 312,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 313,
+    "task": "cartpole",
+    "reward": 31.0
+  },
+  {
+    "episode": 314,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 315,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 316,
+    "task": "cartpole",
+    "reward": 30.0
+  },
+  {
+    "episode": 317,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 318,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 319,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 320,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 321,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 322,
+    "task": "cartpole",
+    "reward": 26.0
+  },
+  {
+    "episode": 323,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 324,
+    "task": "cartpole",
+    "reward": 30.0
+  },
+  {
+    "episode": 325,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 326,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 327,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 328,
+    "task": "cartpole",
+    "reward": 33.0
+  },
+  {
+    "episode": 329,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 330,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 331,
+    "task": "cartpole",
+    "reward": 35.0
+  },
+  {
+    "episode": 332,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 333,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 334,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 335,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 336,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 337,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 338,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 339,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 340,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 341,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 342,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 343,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 344,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 345,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 346,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 347,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 348,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 349,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 350,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 351,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 352,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 353,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 354,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 355,
+    "task": "cartpole",
+    "reward": 32.0
+  },
+  {
+    "episode": 356,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 357,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 358,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 359,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 360,
+    "task": "cartpole",
+    "reward": 24.0
+  },
+  {
+    "episode": 361,
+    "task": "cartpole",
+    "reward": 34.0
+  },
+  {
+    "episode": 362,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 363,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 364,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 365,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 366,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 367,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 368,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 369,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 370,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 371,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 372,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 373,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 374,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 375,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 376,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 377,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 378,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 379,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 380,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 381,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 382,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 383,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 384,
+    "task": "cartpole",
+    "reward": 41.0
+  },
+  {
+    "episode": 385,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 386,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 387,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 388,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 389,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 390,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 391,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 392,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 393,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 394,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 395,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 396,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 397,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 398,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 399,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 400,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 401,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 402,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 403,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 404,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 405,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 406,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 407,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 408,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 409,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 410,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 411,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 412,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 413,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 414,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 415,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 416,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 417,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 418,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 419,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 420,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 421,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 422,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 423,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 424,
+    "task": "cartpole",
+    "reward": 27.0
+  },
+  {
+    "episode": 425,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 426,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 427,
+    "task": "cartpole",
+    "reward": 23.0
+  },
+  {
+    "episode": 428,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 429,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 430,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 431,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 432,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 433,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 434,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 435,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 436,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 437,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 438,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 439,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 440,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 441,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 442,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 443,
+    "task": "cartpole",
+    "reward": 33.0
+  },
+  {
+    "episode": 444,
+    "task": "cartpole",
+    "reward": 29.0
+  },
+  {
+    "episode": 445,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 446,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 447,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 448,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 449,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 450,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 451,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 452,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 453,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 454,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 455,
+    "task": "cartpole",
+    "reward": 24.0
+  },
+  {
+    "episode": 456,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 457,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 458,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 459,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 460,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 461,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 462,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 463,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 464,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 465,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 466,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 467,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 468,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 469,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 470,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 471,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 472,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 473,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 474,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 475,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 476,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 477,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 478,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 479,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 480,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 481,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 482,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 483,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 484,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 485,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 486,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 487,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 488,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 489,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 490,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 491,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 492,
+    "task": "cartpole",
+    "reward": 37.0
+  },
+  {
+    "episode": 493,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 494,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 495,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 496,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 497,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 498,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 499,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 500,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 501,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 502,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 503,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 504,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 505,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 506,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 507,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 508,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 509,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 510,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 511,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 512,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 513,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 514,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 515,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 516,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 517,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 518,
+    "task": "cartpole",
+    "reward": 8.0
+  },
+  {
+    "episode": 519,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 520,
+    "task": "cartpole",
+    "reward": 8.0
+  },
+  {
+    "episode": 521,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 522,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 523,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 524,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 525,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 526,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 527,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 528,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 529,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 530,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 531,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 532,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 533,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 534,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 535,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 536,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 537,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 538,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 539,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 540,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 541,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 542,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 543,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 544,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 545,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 546,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 547,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 548,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 549,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 550,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 551,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 552,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 553,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 554,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 555,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 556,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 557,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 558,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 559,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 560,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 561,
+    "task": "cartpole",
+    "reward": 19.0
+  },
+  {
+    "episode": 562,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 563,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 564,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 565,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 566,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 567,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 568,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 569,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 570,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 571,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 572,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 573,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 574,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 575,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 576,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 577,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 578,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 579,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 580,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 581,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 582,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 583,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 584,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 585,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 586,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 587,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 588,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 589,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 590,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 591,
+    "task": "cartpole",
+    "reward": 22.0
+  },
+  {
+    "episode": 592,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 593,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 594,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 595,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 596,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 597,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 598,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 599,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 600,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 601,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 602,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 603,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 604,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 605,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 606,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 607,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 608,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 609,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 610,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 611,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 612,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 613,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 614,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 615,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 616,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 617,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 618,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 619,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 620,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 621,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 622,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 623,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 624,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 625,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 626,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 627,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 628,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 629,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 630,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 631,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 632,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 633,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 634,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 635,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 636,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 637,
+    "task": "cartpole",
+    "reward": 15.0
+  },
+  {
+    "episode": 638,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 639,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 640,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 641,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 642,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 643,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 644,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 645,
+    "task": "cartpole",
+    "reward": 21.0
+  },
+  {
+    "episode": 646,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 647,
+    "task": "cartpole",
+    "reward": 23.0
+  },
+  {
+    "episode": 648,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 649,
+    "task": "cartpole",
+    "reward": 17.0
+  },
+  {
+    "episode": 650,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 651,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 652,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 653,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 654,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 655,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 656,
+    "task": "cartpole",
+    "reward": 41.0
+  },
+  {
+    "episode": 657,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 658,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 659,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 660,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 661,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 662,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 663,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 664,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 665,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 666,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 667,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 668,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 669,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 670,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 671,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 672,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 673,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 674,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 675,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 676,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 677,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 678,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 679,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 680,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 681,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 682,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 683,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 684,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 685,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 686,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 687,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 688,
+    "task": "cartpole",
+    "reward": 28.0
+  },
+  {
+    "episode": 689,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 690,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 691,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 692,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 693,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 694,
+    "task": "cartpole",
+    "reward": 8.0
+  },
+  {
+    "episode": 695,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 696,
+    "task": "cartpole",
+    "reward": 16.0
+  },
+  {
+    "episode": 697,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 698,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 699,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 700,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 701,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 702,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 703,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 704,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 705,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 706,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 707,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 708,
+    "task": "cartpole",
+    "reward": 18.0
+  },
+  {
+    "episode": 709,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 710,
+    "task": "cartpole",
+    "reward": 10.0
+  },
+  {
+    "episode": 711,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 712,
+    "task": "cartpole",
+    "reward": 8.0
+  },
+  {
+    "episode": 713,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 714,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 715,
+    "task": "cartpole",
+    "reward": 30.0
+  },
+  {
+    "episode": 716,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 717,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 718,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 719,
+    "task": "cartpole",
+    "reward": 8.0
+  },
+  {
+    "episode": 720,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 721,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 722,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 723,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 724,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 725,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 726,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 727,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 728,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 729,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 730,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 731,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 732,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 733,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 734,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 735,
+    "task": "cartpole",
+    "reward": 13.0
+  },
+  {
+    "episode": 736,
+    "task": "cartpole",
+    "reward": 20.0
+  },
+  {
+    "episode": 737,
+    "task": "cartpole",
+    "reward": 9.0
+  },
+  {
+    "episode": 738,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 739,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 740,
+    "task": "cartpole",
+    "reward": 27.0
+  },
+  {
+    "episode": 741,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 742,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 743,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 744,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 745,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 746,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 747,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 748,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 749,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 750,
+    "task": "cartpole",
+    "reward": 14.0
+  },
+  {
+    "episode": 751,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 752,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 753,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 754,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 755,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 756,
+    "task": "cartpole",
+    "reward": 11.0
+  },
+  {
+    "episode": 757,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 758,
+    "task": "mountaincar",
+    "reward": -200.0
+  },
+  {
+    "episode": 759,
+    "task": "cartpole",
+    "reward": 12.0
+  },
+  {
+    "episode": 760,
+    "task": "mountaincar",
+    "reward": -200.0
+  }
+]
